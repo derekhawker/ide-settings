@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/derekhawker/ide-settings/compare/1.1.1...1.2.0) (2022-03-03)
+
+
+### Features
+
+* dfdsf dsfd ([4f799b0](https://github.com/derekhawker/ide-settings/commit/4f799b07f762eac4a3025aaa1e42e73ed0dfddca))
+
+
+
 ## [1.1.1](https://github.com/derekhawker/ide-settings/compare/1.1.0...1.1.1) (2022-03-03)
 
 
