@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/derekhawker/ide-settings/compare/1.1.0...1.1.1) (2022-03-03)
+
+
+### Bug Fixes
+
+* fdsfsdfd ([7c76d8c](https://github.com/derekhawker/ide-settings/commit/7c76d8cbb258c0d858eb3c4011fb4ec28d99b4a9))
+
+
+
 # [1.1.0](https://github.com/derekhawker/ide-settings/compare/1.0.1...1.1.0) (2022-03-03)
 
 
